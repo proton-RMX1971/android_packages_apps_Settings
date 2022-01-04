@@ -2820,6 +2820,8 @@
     <string name="private_dns_mode_on">On</string>
     <!-- Cloudflare DNS Option -->
     <string name="private_dns_mode_cloudflare" translatable="false">Cloudflare DNS</string>
+    <!-- AdGuard DNS Option -->
+    <string name="private_dns_mode_adguard" translatable="false">AdGuard DNS</string>
 
     <!-- Message to display when setting wifi calling are not editable [CHAR LIMIT=NONE] -->
     <string name="wifi_calling_pref_managed_by_carrier">Setting managed by carrier</string>
